@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Include everything by default -->
+    <include domain="root" path="." />
+
+    <!-- Optional: Exclude specific folders or files -->
+    <!-- <exclude domain="database" path="cache.db" /> -->
+    <!-- <exclude domain="sharedpref" path="temp_prefs.xml" /> -->
+</full-backup-content>
