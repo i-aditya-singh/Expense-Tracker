@@ -29,12 +29,6 @@ A clean, intuitive, and offline-first **Expense Tracker** Android app built usin
 
 ---
 
-## 📸 Screenshots
-
-> _Add here screenshots of your app UI (Home Screen, Add Expense, Summary, etc.)_
-
----
-
 ## 🏗 Architecture
 
 The app follows **MVVM (Model-View-ViewModel)** architecture:
